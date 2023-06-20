@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Get the name of the Jupyter notebook file.
-notebook_file="spam_prediction.ipynb"
+notebook_file="file_path.ipynb"
 
 # Get the name of the output file.
-output_file="spam_prediction_copy.py"
+output_file="file_path.py"
 
 # Import the necessary modules.
 import nbformat
