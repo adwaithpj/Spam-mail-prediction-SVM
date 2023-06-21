@@ -2,32 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <style>
-    .title {
-      font-size: 24px;
-      color: #333;
-      text-decoration: underline;
-    }
-
-    .section {
-      margin-bottom: 20px;
-    }
-
-    .step {
-      margin-left: 20px;
-    }
-
-    .emoji {
-      font-size: 20px;
-      margin-right: 5px;
-    }
-
-    .highlight {
-      background-color: #f8f8f8;
-      padding: 10px;
-      border-radius: 5px;
-    }
-  </style>
+  
 </head>
 <body>
   <h1 class="title">Spam Email Prediction using SVM Model</h1>
