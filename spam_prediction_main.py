@@ -14,7 +14,7 @@ from sklearn.svm import LinearSVC
 from sklearn.metrics import accuracy_score
 #Data Pre Processing
 #load the dataset to pandas Data Frame
-raw_mail_data = pd.read_csv('spam_ham_dataset.csv') #read the data in csv to pandas data frame
+raw_mail_data = pd.read_csv('Spam-mail-prediction-SVM\spam_ham_dataset.csv') #read the data in csv to pandas data frame
 
 #replace the null values with a null string
 #store it in a variable called mail_data
